@@ -33,7 +33,5 @@ I have a good sense of humor and enjoy coding challenges! 😄
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=A7med7c&color=blue)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=A7med7cp&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med7c&layout=compact)
 
