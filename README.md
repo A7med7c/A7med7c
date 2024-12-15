@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
+I'm a backend developer specializing in ASP.NET, C#, and database design. Passionate about building scalable and efficient applications, I enjoy solving complex problems and collaborating with teams to deliver impactful solutions.
 
-<!--
-**A7med7c/A7med7c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Languages:** C#, Python, SQL
+- **Frameworks & Libraries:** ASP.NET Core, Entity Framework, LINQ
+- **Databases:** SQL Server
+- **Tools:** Visual Studio, Git, Docker
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- Designing an **E-Learning Platform Database** inspired by Udemy to enhance online education accessibility.
+- Exploring advanced C# concepts to optimize backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Achievements
+- Graduated from the **Digital Egypt Pioneers Initiative (DEPI)**, specializing in Software Development - .NET Web Developer track.
+- Summer training at ITI in the **.NET track**.
+- Leadership training with Aspire Training Solutions in collaboration with the American University in Cairo.
+
+## 🌱 Learning
+- Studying **ASP.NET Core** and **Entity Framework** to deepen my expertise in modern web development.
+- Preparing for a potential master's degree in **Computer Engineering** in Europe.
+
+## 🌐 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.com)
+
+## 📂 Featured Projects
+- [Examination System Database Design](https://github.com/YourUsername/Examination-System)
+- [E-Learning Platform Database](https://github.com/YourUsername/E-Learning-Platform)
+
+## 🎉 Fun Fact
+I have a good sense of humor and enjoy coding challenges! 😄
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
