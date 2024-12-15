@@ -12,6 +12,7 @@ I'm a backend developer specializing in ASP.NET, C#, and database design. Passio
 - Exploring advanced C# concepts to optimize backend systems.
 
 ## 🎓 Education & Achievements
+- Student at **Faculty of Engineering, Computer and Communication** Mansoura University
 - Graduated from the **Digital Egypt Pioneers Initiative (DEPI)**, specializing in Software Development - .NET Web Developer track.
 - Summer training at ITI in the **.NET track**.
 - Leadership training with Aspire Training Solutions in collaboration with the American University in Cairo.
@@ -21,18 +22,18 @@ I'm a backend developer specializing in ASP.NET, C#, and database design. Passio
 - Preparing for a potential master's degree in **Computer Engineering** in Europe.
 
 ## 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](www.linkedin.com/in/ahmed-ragab-2712b7228)
 
 ## 📂 Featured Projects
-- [Examination System Database Design](https://github.com/YourUsername/Examination-System)
-- [E-Learning Platform Database](https://github.com/YourUsername/E-Learning-Platform)
+- [Examination System Database Design](https://github.com/A7med7c/Examination-System)
+- [E-Learning Platform Database](https://github.com/A7med7c/E-Learning)
 
 ## 🎉 Fun Fact
 I have a good sense of humor and enjoy coding challenges! 😄
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=A7med7c&color=blue)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=A7med7cp&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med7c&layout=compact)
+
