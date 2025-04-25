@@ -25,6 +25,7 @@ I'm a backend developer specializing in ASP.NET, C#, and database design. Passio
 - [LinkedIn](www.linkedin.com/in/ahmed-ragab-2712b7228)
 
 ## 📂 Featured Projects
+-[ERP for Restaurant](https://github.com/A7med7c/Restaurants)
 - [Books Library](https://github.com/A7med7c/BookLibrary)
 - [E-Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)
 
