@@ -19,7 +19,6 @@ I'm a backend developer specializing in ASP.NET, C#, and database design. Passio
 
 ## 🌱 Learning
 - Studying **ASP.NET Core** and **Entity Framework** to deepen my expertise in modern web development.
-- Preparing for a potential master's degree in **Computer Engineering** in Europe.
 
 ## 🌐 Find Me Online
 - [LinkedIn](www.linkedin.com/in/ahmed-ragab-2712b7228)
