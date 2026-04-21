@@ -1,37 +1,55 @@
-# Hi there 👋
-I'm a backend developer specializing in ASP.NET, C#, and database design. Passionate about building scalable and efficient applications, I enjoy solving complex problems and collaborating with teams to deliver impactful solutions.
+# Ahmed Ragab
+Backend .NET developer building secure, scalable web systems.
 
-## 🚀 Skills
-- **Languages:** C#, Python, SQL
-- **Frameworks & Libraries:** ASP.NET Core, Entity Framework, LINQ
-- **Databases:** SQL Server
-- **Tools:** Visual Studio, Git, Docker
+## About Me
+I design and build backend services and data models with a focus on ASP.NET Core, SQL Server, and clean, maintainable architectures. My recent work includes e‑commerce and library systems, API backends, and data-centric platforms with authentication, payments, and role-based access control.
 
-## 🔭 Current Projects
-- Designing an **E-Learning Platform Database** inspired by Udemy to enhance online education accessibility.
-- Exploring advanced C# concepts to optimize backend systems.
+## Tech Stack
+**Frontend**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 🎓 Education & Achievements
-- Student at **Faculty of Engineering, Computer and Communication** Mansoura University
-- Graduated from the **Digital Egypt Pioneers Initiative (DEPI)**, specializing in Software Development - .NET Web Developer track.
-- Summer training at ITI in the **.NET track**.
-- Leadership training with Aspire Training Solutions in collaboration with the American University in Cairo.
+**Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-## 🌱 Learning
-- Studying **ASP.NET Core** and **Entity Framework** to deepen my expertise in modern web development.
+**Database**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-## 🌐 Find Me Online
-- [LinkedIn](www.linkedin.com/in/ahmed-ragab-2712b7228)
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
-## 📂 Featured Projects
-- [Talabat API Clone ](https://github.com/A7med7c/Restaurants)
-- [Books Library](https://github.com/A7med7c/BookLibrary)
-- [E-Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)
+## Featured Projects
+- **[Book Library & E‑Commerce System](https://github.com/A7med7c/BookLibrary)**
+  - **Description:** Full web app for browsing, purchasing, and managing books.
+  - **Tech:** ASP.NET Core MVC, EF Core, ASP.NET Identity, JWT, SQL Server, Bootstrap, Stripe.
+  - **Key Achievement:** Secure payments and role‑based admin dashboard with order tracking.
 
-## 🎉 Fun Fact
-I have a good sense of humor and enjoy coding challenges! 😄
+- **[Talabat API Clone (Restaurants)](https://github.com/A7med7c/Restaurants)**
+  - **Description:** Food‑delivery API backend modeling restaurants, menus, and orders.
+  - **Tech:** ASP.NET Core, EF Core, SQL Server, JWT.
+  - **Key Achievement:** Clean, layered architecture for scalable API growth.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=A7med7c&color=blue)
+- **[E‑Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)**
+  - **Description:** Udemy‑style platform focused on course data modeling and enrollment flows.
+  - **Tech:** SQL Server, C#.
+  - **Key Achievement:** Structured database design for scalable content and progress tracking.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med7c&layout=compact)
+## What I’m Currently Working On
+- E‑learning platform database design and backend foundations
+- Improving API performance and maintainability in ASP.NET Core
 
+## Learning / Goals
+- Deeper EF Core performance tuning and query optimization
+- Clean architecture and testing practices for enterprise backends
+
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/ahmed-ragab-2712b7228
+- **Email:** your.email@example.com
+- **Portfolio:** your-portfolio-url.com
