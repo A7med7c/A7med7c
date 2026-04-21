@@ -2,7 +2,7 @@
 Backend .NET developer building secure, scalable web systems.
 
 ## About Me
-I design and build backend services and data models with a focus on ASP.NET Core, SQL Server, and clean, maintainable architectures. My recent work includes e‑commerce and library systems, API backends, and data-centric platforms with authentication, payments, and role-based access control.
+I design and build backend services and data models with a focus on ASP.NET Core, SQL Server, and clean, maintainable architectures. My recent work includes e-commerce and library systems, API backends, and data-centric platforms with authentication, payments, and role-based access control.
 
 ## Tech Stack
 **Frontend**  
@@ -26,23 +26,23 @@ I design and build backend services and data models with a focus on ASP.NET Core
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
 ## Featured Projects
-- **[Book Library & E‑Commerce System](https://github.com/A7med7c/BookLibrary)**
+- **[Book Library & E-Commerce System](https://github.com/A7med7c/BookLibrary)**
   - **Description:** Full web app for browsing, purchasing, and managing books.
   - **Tech:** ASP.NET Core MVC, EF Core, ASP.NET Identity, JWT, SQL Server, Bootstrap, Stripe.
-  - **Key Achievement:** Secure payments and role‑based admin dashboard with order tracking.
+  - **Key Achievement:** Secure payments and role-based admin dashboard with order tracking.
 
 - **[Talabat API Clone (Restaurants)](https://github.com/A7med7c/Restaurants)**
-  - **Description:** Food‑delivery API backend modeling restaurants, menus, and orders.
+  - **Description:** Food-delivery API backend modeling restaurants, menus, and orders.
   - **Tech:** ASP.NET Core, EF Core, SQL Server, JWT.
   - **Key Achievement:** Clean, layered architecture for scalable API growth.
 
-- **[E‑Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)**
-  - **Description:** Udemy‑style platform focused on course data modeling and enrollment flows.
+- **[E-Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)**
+  - **Description:** Udemy-style platform focused on course data modeling and enrollment flows.
   - **Tech:** SQL Server, C#.
   - **Key Achievement:** Structured database design for scalable content and progress tracking.
 
 ## What I’m Currently Working On
-- E‑learning platform database design and backend foundations
+- E-learning platform database design and backend foundations
 - Improving API performance and maintainability in ASP.NET Core
 
 ## Learning / Goals
