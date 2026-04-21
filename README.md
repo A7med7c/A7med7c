@@ -36,7 +36,7 @@ I design and build backend services and data models with a focus on ASP.NET Core
   - **Tech:** ASP.NET Core, EF Core, SQL Server, JWT.
   - **Key Achievement:** Clean, layered architecture for scalable API growth.
 
-- **[E-Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)**
+- **[E-Learning Platform](https://github.com/ayaelalfy-CSAI/E-Learning)** *(collaborative project)*
   - **Description:** Udemy-style platform focused on course data modeling and enrollment flows.
   - **Tech:** SQL Server, C#.
   - **Key Achievement:** Structured database design for scalable content and progress tracking.
