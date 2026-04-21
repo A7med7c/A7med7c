@@ -50,6 +50,6 @@ I design and build backend services and data models with a focus on ASP.NET Core
 - Clean architecture and testing practices for enterprise backends
 
 ## Contact
-- **LinkedIn:** [ahmed-ragab-2712b7228](https://www.linkedin.com/in/ahmed-ragab-2712b7228)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
+- **LinkedIn:** [Ahmed Ragab](https://www.linkedin.com/in/ahmed-ragab-2712b7228)
+- **Email:** [your.email@example.com](mailto:your.email@example.com) *(placeholder)*
+- **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com) *(placeholder)*
