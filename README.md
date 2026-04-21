@@ -8,6 +8,9 @@ I design and build backend services and data models with a focus on ASP.NET Core
 **Frontend**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **Backend**  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -40,6 +43,14 @@ I design and build backend services and data models with a focus on ASP.NET Core
   - **Description:** Udemy-style platform focused on course data modeling and enrollment flows.
   - **Tech:** SQL Server, C#.
   - **Key Achievement:** Structured database design for scalable content and progress tracking.
+
+- **[ECommerce Angular](https://github.com/A7med7c/E-commerce-Angular)**
+  - **Description:** Angular client for an e-commerce web application.
+  - **Tech:** Angular, TypeScript, HTML, CSS.
+
+- **[ITI Management System (Angular Client)](https://github.com/A7med7c/ITI-Managment-System-)**
+  - **Description:** Angular SPA for managing ITI students, departments, courses, and enrollments.
+  - **Tech:** Angular, TypeScript, Bootstrap 5.
 
 ## What I’m Currently Working On
 - E-learning platform database design and backend foundations
