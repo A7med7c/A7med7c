@@ -21,7 +21,6 @@ I design and build backend services and data models with a focus on ASP.NET Core
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 
@@ -51,5 +50,4 @@ I design and build backend services and data models with a focus on ASP.NET Core
 
 ## Contact
 - **LinkedIn:** [Ahmed Ragab](https://www.linkedin.com/in/ahmed-ragab-2712b7228)
-- **Email:** [your.email@example.com](mailto:your.email@example.com) *(placeholder)*
-- **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com) *(placeholder)*
+- **Email:** [your.email@example.com](mailto:ahmed.ragab.ali.07@gmail.com) *(placeholder)*
