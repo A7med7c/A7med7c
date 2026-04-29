@@ -50,4 +50,4 @@ I design and build backend services and data models with a focus on ASP.NET Core
 
 ## Contact
 - **LinkedIn:** [Ahmed Ragab](https://www.linkedin.com/in/ahmed-ragab-2712b7228)
-- **Email:** [your.email@example.com](mailto:ahmed.ragab.ali.07@gmail.com) *(placeholder)*
+- **Email:** [ahmed.ragab.ali.07@gmail.com](mailto:ahmed.ragab.ali.07@gmail.com) *(placeholder)*
