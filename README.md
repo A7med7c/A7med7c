@@ -79,14 +79,6 @@ Full-stack engineer specializing in **.NET Core** and **Angular**, focused on bu
 
 ---
 
-### E-Learning Platform *(In Progress)*
-
-> A platform for course management and student enrollment.
-
-- Designing a scalable relational database schema
-- Building a performant backend architecture with EF Core optimizations
-
----
 
 ## 💼 Experience
 
@@ -113,7 +105,6 @@ GPA: 3.76 / 4.0 | Graduation Project: **Excellent**
 
 - Backend architecture design & scalability patterns
 - Payment integrations & distributed systems
-- EF Core performance optimization
 
 ---
 
